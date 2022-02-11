@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6b634d1ce32b0bffb09d7e333486dac1.js"
+  "/precache-manifest.f6daea7941a6edf9fd2440760a58f7e2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "okaoka0709.github.io-source"});
