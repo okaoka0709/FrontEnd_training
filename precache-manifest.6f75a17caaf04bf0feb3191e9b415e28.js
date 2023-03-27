@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d49568e385c659a497df",
-    "url": "/css/app.8ed226dc.css"
+    "revision": "829662cba00e3b5ae15e",
+    "url": "/css/app.001dc5cb.css"
   },
   {
     "revision": "eb7896f8056e1dd81a8a",
@@ -52,16 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/網頁背景.c322011d.jpg"
   },
   {
-    "revision": "2d9377872aa60627f02a1f9ab2d41f33",
+    "revision": "b8502dd97c17c23047b406fc06a07485",
     "url": "/index.html"
   },
   {
-    "revision": "f12b357d028234a742097b6fdf63616a",
-    "url": "/invest/index.html"
-  },
-  {
-    "revision": "d49568e385c659a497df",
-    "url": "/js/app.d8c99ea7.js"
+    "revision": "829662cba00e3b5ae15e",
+    "url": "/js/app.626925ec.js"
   },
   {
     "revision": "6e611cf5090545f9185a",
@@ -90,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
+  },
+  {
+    "revision": "d1937aebbece135402564492bdb20dc5",
+    "url": "/人物去背.png"
   }
 ]);
