@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83b074f30b83e5d7443a",
-    "url": "/css/app.dc461c45.css"
+    "revision": "d49568e385c659a497df",
+    "url": "/css/app.8ed226dc.css"
   },
   {
     "revision": "eb7896f8056e1dd81a8a",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/網頁背景.c322011d.jpg"
   },
   {
-    "revision": "196053c10c266f50884482c4767af015",
+    "revision": "2d9377872aa60627f02a1f9ab2d41f33",
     "url": "/index.html"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invest/index.html"
   },
   {
-    "revision": "83b074f30b83e5d7443a",
-    "url": "/js/app.c7b55252.js"
+    "revision": "d49568e385c659a497df",
+    "url": "/js/app.d8c99ea7.js"
   },
   {
     "revision": "6e611cf5090545f9185a",
